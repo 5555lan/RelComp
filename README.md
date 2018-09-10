@@ -38,12 +38,12 @@ The RelComp project provides experimental comparison of 6 state-of-the-art s-t r
 
 4. The Description of Output Files:
 
-	(1) Result files: [Dataset Name]_[Method Name]_[index].csv
+	(1) Result files: [Dataset Name]\_[Method Name]\_[index].csv
 	
-		The Index here means that this file is for No.Index query.
+	The Index here means that this file is for No.Index query.
 		
-		Each line in such file is organized as: [K],[Reliability],[Time(ms)],[Memory[B]]
+	Each line in such file is organized as: [K],[Reliability],[Time(ms)],[Memory[B]]
 		
-	(2) Variance file: [Dataset Name]_[Method Name]_[Variance].csv
+	(2) Variance file: [Dataset Name]\_[Method Name]\_[Variance].csv
 	
-		Each line in such file is organized as: [K],[Variance],[_],[Index]
+	Each line in such file is organized as: [K],[Variance],[_],[Index]
