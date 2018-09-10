@@ -14,7 +14,7 @@ The RelComp project provides experimental comparison of 6 state-of-the-art s-t r
 	
 	(3) RelComp.zip : Compressed source codes of RelComp project
 	
-	(4) lastfm/NetHept/dblp02/dblp005.zip : Datasets, including the original graph and 100 random queries. For lastfm and NetHept, we also provide the ProbTree indexes since they are small. For other datasets, one can generate the indexes locally with our program.
+	(4) lastfm/NetHept.zip : Example datasets, including the original graph and 100 random queries. We also provide the ProbTree indexes since they are small. Our program also supports generating ProbTree/BFSSharing indexes.
 
 2. How to Compile:
 
